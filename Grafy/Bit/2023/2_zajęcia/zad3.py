@@ -1,0 +1,1 @@
+"""odpalam dijkstre z s i sprawdzam czy powstałe drzewo jest równe T"""

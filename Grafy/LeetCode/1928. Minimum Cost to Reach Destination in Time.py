@@ -1,0 +1,3 @@
+"""
+Zmodyfikowana dijkstra, nudy
+"""

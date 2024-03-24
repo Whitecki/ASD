@@ -1,0 +1,2 @@
+
+def Bellmondo(G,s):

@@ -1,0 +1,1 @@
+'''tak proste, że aż szkoda tracić czas :3'''

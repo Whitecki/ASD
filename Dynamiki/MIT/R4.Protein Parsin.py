@@ -1,0 +1,1 @@
+# w sumie to nudy, a do egzaminu czasu mało
